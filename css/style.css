@@ -76,7 +76,7 @@ a {
   color: rgba(10, 9, 9, 0.6117647059);
 }
 .header-content__nav__li:hover {
-  color: rgba(10, 9, 9, 0.6117647059);
+  color: #7e364c;
   font-weight: 500;
   transition: ease-in-out 0.5s;
 }
